@@ -1,3 +1,5 @@
+import os
+import sys
 import bpy
 import math
 import random
@@ -23,6 +25,12 @@ def randomly_change_color(material_to_change):
 # Create automatically 3D letters
 """Create it manually for now
 """
+
+#bpy.data.curves.new(type="FONT", name="Font Curve").body = "A"
+#font_obj = bpy.data.objects.new(name="Font Object", object_data=bpy.data.curves["Font Curve"])
+#bpy.context.scene.collection.objects.link(font_obj)
+#bpy.context.object.data.extrude = 0.12
+#bpy.context.object.rotation_euler[0] = 1.5708
 
 # Obj names to render
 obj_names = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','R','S','T','U','W','X','Y','Z']
