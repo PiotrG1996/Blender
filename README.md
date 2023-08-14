@@ -16,6 +16,26 @@
 
 ![example](image/Cola.gif)
 
+## 2. How to run this project?
+
+- Open Blender file named Create_model.blend
+- Click in the workspace tab _Scripting_ , then Run Script.
+
+Example 1             |  Example 2 
+:-------------------------:|:-------------------------:
+![3D model with texture](image/example_1.png)  |  ![3D model with texture](image/example_2.png)
+
+</br>
+
+Example 3              |  Example 4 
+:-------------------------:|:-------------------------:
+![3D model with texture](image/example_3.png)  |  ![3D model with texture](image/example_4.png)
+
+</br>
+
+TODO:
+- [ ] Fix issue with the wrong mesh textures. 
+
 # Blender Script Unit Tests
 
 This document outlines the unit tests for the Blender script. The tests cover various aspects of the script's functionality, ensuring that it behaves as expected under different scenarios.
