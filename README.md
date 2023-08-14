@@ -12,11 +12,6 @@
 
 
 
-
-## 1. Create 3D letters with random color and position
-
-![example](image/A.png)
-
 ## 1. Create a 3D model of Coca-Cola exported from the .stl file
 
 ![example](image/Cola.gif)
